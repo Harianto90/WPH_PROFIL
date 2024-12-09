@@ -1,5 +1,2 @@
-- saya akan mmebuat halam web
-- saya akan buat platform channel
-- kolaborasi dengan banyak expert
-- bergabung di komunitas programmer 
-- membuat forum diskusi
+membbuat konten 
+menambahakan materi javascrip
