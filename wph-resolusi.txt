@@ -1,2 +1,6 @@
 membbuat konten 
 menambahakan materi javascrip
+es 6 
+file 
+upate
+sql
